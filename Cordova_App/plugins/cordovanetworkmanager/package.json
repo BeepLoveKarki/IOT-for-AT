@@ -1,0 +1,50 @@
+{
+  "_from": "cordovanetworkmanager@2.4.0",
+  "_id": "cordovanetworkmanager@2.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-aUGByrxWW+Az4ToWLUmJ8i9awT34nWrESS0rIJwPM8sqgPbaiZEEN/FPckR9P0txAGbxBwI3tE9HqwkJYaJdhw==",
+  "_location": "/cordovanetworkmanager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordovanetworkmanager@2.4.0",
+    "name": "cordovanetworkmanager",
+    "escapedName": "cordovanetworkmanager",
+    "rawSpec": "2.4.0",
+    "saveSpec": null,
+    "fetchSpec": "2.4.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordovanetworkmanager/-/cordovanetworkmanager-2.4.0.tgz",
+  "_shasum": "19bb686a70bd2241b3b13448e1f4d8aafc9b6810",
+  "_spec": "cordovanetworkmanager@2.4.0",
+  "_where": "C:\\projects\\iot-at",
+  "author": {
+    "name": "Nicholas Clancy"
+  },
+  "bugs": {
+    "url": "https://github.com/arsenal942/Cordova-Network-Manager/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordovanetworkmanager",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Network Manager for Android and iOS",
+  "homepage": "https://github.com/arsenal942/Cordova-Network-Manager#readme",
+  "license": "MIT",
+  "name": "cordovanetworkmanager",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsenal942/Cordova-Network-Manager.git"
+  },
+  "version": "2.4.0"
+}

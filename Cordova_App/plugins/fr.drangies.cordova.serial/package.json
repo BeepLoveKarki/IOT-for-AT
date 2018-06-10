@@ -1,0 +1,58 @@
+{
+  "_from": "cordovarduino@0.0.8",
+  "_id": "cordovarduino@0.0.8",
+  "_inBundle": false,
+  "_integrity": "sha1-akbjc2EJByr7ubqLHt3M2rimiw4=",
+  "_location": "/cordovarduino",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordovarduino@0.0.8",
+    "name": "cordovarduino",
+    "escapedName": "cordovarduino",
+    "rawSpec": "0.0.8",
+    "saveSpec": null,
+    "fetchSpec": "0.0.8"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordovarduino/-/cordovarduino-0.0.8.tgz",
+  "_shasum": "6a46e3736109072afbb9ba8b1eddccdab8a68b0e",
+  "_spec": "cordovarduino@0.0.8",
+  "_where": "C:\\projects\\iot-at",
+  "author": {
+    "name": "Xavier Seignard",
+    "email": "xavier.seignard@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/xseignard/cordovarduino/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "fr.drangies.cordova.serial",
+    "platforms": [
+      "android",
+      "ubuntu"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin to communicate with the android USB serial port",
+  "homepage": "https://github.com/xseignard/cordovarduino#readme",
+  "keywords": [
+    "serial",
+    "arduino",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ubuntu"
+  ],
+  "license": "MIT",
+  "name": "cordovarduino",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xseignard/cordovarduino.git"
+  },
+  "version": "0.0.8"
+}

@@ -1,0 +1,15 @@
+<ion-content class="m1" padding>
+  <div text-center class="m1button">
+    <h2>{{title}}</h2>
+    <button ion-button id="m1light" full (click)="light(1)" class="button active">Light Control</button>
+    <p id="lightstat">Status: {{this.states[0]}}</p>
+    <button ion-button id="m1fan" full (click)="fan(1)" class="button">Fan Control</button>
+    <p id="fanstat">Status: {{this.states[1]}}</p>
+    <button ion-button id="m1tv" full (click)="tv(1)" class="button">TV Control</button>
+    <p id="tvstat">Status: {{this.states[2]}}</p>
+    <button ion-button id="m1door" full (click)="door(1)" class="button">Door Control</button>
+    <p id="doorstat">Status: {{this.states[3]}}</p>
+    <button ion-button id="m1curtain" full (click)="curtain(1)" class="button">Curtain Control</button>
+    <p id="curtainstat">Status: {{this.states[4]}}</p>
+  </div>
+</ion-content>
